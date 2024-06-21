@@ -1,0 +1,12 @@
+#root{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e791fe;
+}
+
+.container{
+  background-color: #e791fe;
+}
